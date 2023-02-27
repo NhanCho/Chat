@@ -1,0 +1,27 @@
+.contain{
+  display: flex;
+  justify-content: center;
+}
+
+.chatContainer{
+margin-top: 25px;
+}
+.messContain{
+  display: flex;
+  justify-content: center;
+}
+
+.user{
+  color: forestgreen;
+  font-size: 20px;
+}
+.yourPov{
+  color: brown;
+  font-size: 20px;
+}
+
+.otherPov{
+  color: darkcyan;
+  font-size: 20px;
+  // justify-content: left;
+}
